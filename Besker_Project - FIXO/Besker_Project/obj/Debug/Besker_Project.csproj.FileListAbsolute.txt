@@ -1,0 +1,10 @@
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\bin\Debug\Besker_Project.exe.config
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\bin\Debug\Besker_Project.exe
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\bin\Debug\Besker_Project.pdb
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.Form1.resources
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.Properties.Resources.resources
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.csproj.GenerateResource.Cache
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.csproj.CoreCompileInputs.cache
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.exe
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.pdb
+C:\Users\ericl\Documents\Visual Studio 2017\Projects\Besker_Project\Besker_Project\obj\Debug\Besker_Project.csprojResolveAssemblyReference.cache
