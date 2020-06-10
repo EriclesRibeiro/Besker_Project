@@ -79,23 +79,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\Besker_Logo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Besker_Logo1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\icons8-new-post-24.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\icons8-password-26.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\icons8-facebook-48.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gmail_icon-icons.com_62758 %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,51 +63,6 @@ namespace Besker_Project.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Besker_Logo {
-            get {
-                object obj = ResourceManager.GetObject("Besker_Logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap gmail_icon_icons_com_62758__1_ {
-            get {
-                object obj = ResourceManager.GetObject("gmail_icon-icons.com_62758 (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_facebook_48 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-facebook-48", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_new_post_24 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-new-post-24", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_password_26 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-password-26", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+
     }
 }
